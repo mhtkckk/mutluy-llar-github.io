@@ -1,0 +1,2715 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta id="viewport" name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    
+                                <meta property="og:title" content="Mutlu Yıllar" />
+                                    <meta property="og:description" content="Mutlu Yıllar"/>
+                                    <meta property="og:image" content="http://www.trabzonspor.org.tr/download/images/11_1222585624.jpg" />
+                            
+                            
+    <link href="/Content/Theme/Default/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/Theme/Default/css/owl.carousel.css" rel="stylesheet"/>
+<link href="/Content/Shared/Scripts/prettyphoto/prettyphoto.min.css" rel="stylesheet"/>
+
+    
+    <link type="text/css" rel="stylesheet" href="/Content/theme/default/css/custom.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+    <meta name="description" content="Futbol, basketbol, voleybol, hentbol, atıcılık, judo, atletizm, masa tenisi ve boks dallarında faaliyet g&#246;steren kul&#252;b&#252;n resmi sitesi." />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Trabzonspor Kulübü" />
+    <title>Mutlu Yıllar | Trabzonspor Kul&#252;b&#252; Resmi Web Sitesi</title>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+    
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] ||
+                function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-49064506-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script data-ad-client="ca-pub-4943459425571705" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+
+
+</head>
+<body class="tr">
+
+    <div id="loading"><span class="screenback"></span><span class="loading"></span></div>
+
+    <div id="mobile-container">
+        <nav id="mobile">
+            <ul id="mobilemenu">
+                <li class="return"><a href="javacript:void(0);">KAPAT</a></li>
+                <li class="visible-xs p10"><a href="https://www.trabzonspor.org.tr/tr/trabzonspor-muzesi" target="_blank" class="ts-muze"></a></li>
+                
+                <li class="visible-xs p10"><a class="ucdloca" href="https://www.trabzonspor.org.tr/tr/3d-loca-turu"></a></li>
+                <li class="visible-xs"><a href="https://www.trabzonspor.org.tr/tr/cagri-merkezimiz" class="logo-competition"></a></li>
+                <li class="visible-xs"><a href="https://www.trabzonspor.org.tr/tr/halkla-iliskiler-birimi" class="logo-public-relations"></a></li>
+                <li class="visible-xs"><a href="https://uyeislemleri.trabzonspor.org.tr/login" target="_blank" class="logo-public-member"></a></li>
+                <li class="visible-xs"><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-dergisi" target="_blank" class="logo-public-magazine"></a></li>
+
+                <li class="visible-xs"><a href="/tr/mac-merkezi" class="iconset match-room">MA&#199; MERKEZİ</a></li>
+                    <li>
+                        <a href="https://www.trabzonspor.org.tr/tr/kulup/tarihce" target="_self">
+                            KULÜP
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="/tr/kulup/tarihce" target="_self">Tarih&#231;e</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/ts-dernekx" target="_self">TS Dernek</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/kulup-tuzugu" target="_self">Kul&#252;p T&#252;z&#252;ğ&#252;</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/kurumsal-kimlik" target="_self">Kurumsal Kimlik</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/kulup-uyeligi" target="_self">Kul&#252;p &#220;yeliği</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/kulup-genc-uyeligi" target="_self">Kul&#252;p Gen&#231; &#220;yeliği</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-futbol-as" target="_self">Trabzonspor Futbol A.Ş</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-ticari-urunler-as" target="_self">Trabzonspor Ticari &#220;r&#252;nler A.Ş</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-bordo-mavi-enerji-elektrik-uretim-as" target="_self">Trabzonspor Bordo Mavi Enerji Elektrik &#220;retim A.Ş</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/trabzonspor-telekomunikasyon-as" target="_self">Trabzonspor Telekom&#252;nikasyon A.Ş</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/kulup/bordo-mavi-futbol-yatirimlari-as" target="_self">Bordo Mavi Futbol Yatırımları A.Ş</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/tescilli-markalar" target="_self">Tescilli Markalar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/futbol-okullari" target="_self">Futbol Okulları</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/resmi-derneklerimiz" target="_self">Resmi Derneklerimiz</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/stad" target="_self">Stadyum</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/formalarimiz" target="_self">Formalarımız</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/kulup/50-yil-logo" target="_self">50. Yıl Logo</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="https://www.trabzonspor.org.tr/tr/yonetim/yonetim-kurulu" target="_self">
+                            YÖNETİM
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="/tr/yonetim/yonetim-kurulu" target="_self">Y&#246;netim Kurulu</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/yonetim/kurucular" target="_self">Kurucular</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/yonetim/kurullar" target="_self">Kurullar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/yonetim/organlar" target="_self">Organlar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/yonetim/teknik-kadro" target="_self">Teknik Kadro</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/yonetim/idari-kadrolar" target="_self">İdari Kadrolar</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/yatirimci-iliskileri/ts-sportif-as-yatirimci-iliskileri" target="_self">Yatırımcı İlişkileri</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="/tr/takimlar" target="_self">
+                            TAKIMLAR
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=futbol-a-takimi" target="_self">Futbol A Takımı</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=basketbol" target="_self">Basketbol</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=eskrim" target="_self">Eskrim</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=e-spor" target="_self">E - Spor</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.trabzonspor.org.tr/tr/takimlar?t=voleybol" target="_self">Voleybol</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=aticilik" target="_self">Atıcılık</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=atletizm" target="_self">Atletizm</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=boks" target="_self">Boks</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=judo" target="_self">Judo</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/takimlar?t=masa-tenisi" target="_self">Masa Tenisi</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="https://altyapi.trabzonspor.org.tr/tr" target="_blank">
+                            ALTYAPI
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="/tr/fikstur" target="_self">
+                            FİKSTÜR
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="/tr/markalarimiz" target="_self">
+                            MARKALARIMIZ
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" target="_self">
+                            ONLINE İŞLEMLER
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="https://uyeislemleri.trabzonspor.org.tr/gk-sorgulama" target="_blank">Genel Kurul Katılım Sorgulama</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/online-islemler/gonullu-havuzu" target="_self">G&#246;n&#252;ll&#252; Havuzu </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://uyeislemleri.trabzonspor.org.tr" target="_blank">&#220;yelik İşlemleri</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.com.tr/" target="_blank">TS Club</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/altyapi" target="_self">
+                            TRABZONSPOR
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="/tr/trabzonspor/trabzonspor-dergisi" target="_self">Trabzonspor Dergisi</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/trabzonspor/seremoni-cocuklari" target="_self">Seremoni &#199;ocukları</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/markalarimiz" target="_self">Markalarımız</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/trabzonspor/marslar" target="_self">Marşlar</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/nostalji/nostalji-" target="_self">Nostalji</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/trabzonspor/wallpaper" target="_self">Wallpaper</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/trabzonspor/kardes-kulupler" target="_self">Kardeş Kul&#252;pler</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/kulupten-haberler" target="_self">Trabzonspor TV</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" target="_self">
+                            ARŞİV
+                                <span class="arrow"></span>
+                        </a>
+
+                            <div class="navigation_dropdown">
+                                <ul>
+                                        <li>
+                                            <a href="https://www.trabzonspor.org.tr/tr/arsiv/gecmis-musabakalar/avrupa-kupalari/" target="_self">Ge&#231;miş M&#252;sabakalar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/arsiv/basarilarimiz" target="_self">Başarılarımız</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/arsiv/eski-kadrolar" target="_self">Eski Kadrolar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/arsiv/baskanlarimiz" target="_self">Başkanlarımız</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/arsiv/eski-teknik-direktorlerimiz" target="_self">Eski Teknik Direkt&#246;rlerimiz</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tr/arsiv/arsiv-gol-krallarimiz" target="_self">Gol Krallarımız</a>
+                                        </li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li>
+                        <a href="/tr/iletisim" target="_self">
+                            İLETİŞİM
+                        </a>
+
+                    </li>
+            </ul>
+        </nav>
+        <div id="main">
+            <!--header-->
+            
+<div id="custom_header">
+<code class="language-css"><style>
+#passolig-countdown{display:none}
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #eee;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+.wrapper         {width:100%;height:100%;margin:0 auto;background:#ffffff}
+.h_iframe        {position:relative;}
+.h_iframe .ratio {display:block;width:100%;height:auto;}
+.h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}
+
+.boardmemberwrapper .boardmember .jobdetail {
+    font-family: 'ProximaNovaRegular';
+    font-size: 13px !important;
+    margin-top: 5px;
+    display: block;
+    line-height: 1;
+}
+
+</style>
+
+<p></p>
+</div>
+<div class="icon-header hidden-xs hidden-sm">
+    <div class="container">
+        <div class="content clearfix">
+            <div class="icon-headersocialbuttons">
+                <a class="ts-muze hidden-xs hidden-sm" target="_blank" href="https://www.trabzonspor.org.tr/tr/trabzonspor-muzesi"></a>
+                
+                <a class="ucdloca hidden-xs hidden-sm" href="https://www.trabzonspor.org.tr/tr/3d-loca-turu"></a>
+                <a href="https://www.trabzonspor.org.tr/tr/cagri-merkezimiz" class="logo-competition hidden-xs hidden-sm"></a>
+                <a href="https://www.trabzonspor.org.tr/tr/halkla-iliskiler-birimi" class="logo-public-relations hidden-xs hidden-sm"></a>
+                <a href="https://uyeislemleri.trabzonspor.org.tr/login" target="_blank" class="logo-public-member hidden-xs hidden-sm"></a>
+                <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-dergisi" target="_blank" class="logo-public-magazine hidden-xs hidden-sm"></a>
+                <a href="/tr/mac-merkezi" class="iconset match-room hidden-xs">MA&#199; MERKEZİ</a>
+                <ul class="hidden-xs">
+                    <li class="socialsprite fb"><a href="https://www.facebook.com/Trabzonspor" target="_blank"></a></li>
+                    <li class="socialsprite tw"><a href="https://twitter.com/trabzonspor" target="_blank"></a></li>
+                    <li class="socialsprite tw"><a href="https://twitter.com/Trabzonspor_EN_" target="_blank"></a></li>
+                    <li class="socialsprite ins"><a href="https://instagram.com/trabzonspor" target="_blank"></a></li>
+                    <li class="socialsprite mail"><a href="javascript:void(0);" onclick="javascript:Reklam5.prototype.ScrollTo($('#homepage-sponsors'));"></a></li>
+                    <li class="socialsprite ytb"><a href="https://www.youtube.com/user/Trabzonspor" target="_blank"></a></li>
+                </ul>
+            </div></div>
+    </div>
+</div>
+<header>
+
+    <div class="container">
+        <div class="content clearfix">
+
+            <a href="javascript:void(0);" id="mobile-menu"></a>
+            <a href="/tr" id="logo"></a>
+            <div class="clear"></div>
+
+            <div class="headersocialbuttons">
+            
+
+                <div class="headermetarials">
+                    <div class="searcharea hidden-xs">
+                        <div class="searchwrap">
+                            <form action="/tr/Search" method="get">
+                                <input type="hidden" name="cx" value="006745037561594299848:9_zp-im1wjk" /><input type="hidden" name="cof" value="FORID:9" /><input type="hidden" name="ie" value="UTF-8" />
+                                <input class="searchtext txtFocus" type="text" name="q" placeholder="Arama......"/>
+                            </form>
+                        </div>
+                        <a href="javascript:void(0);" rel="nofollow" class="searchbutton"></a>
+                    </div>
+                    <ul class="lang">
+                            <li class=active><a href="/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018">TR</a></li>
+                            <li ><a href="en/mutlu-yillar-31-12-2018">EN</a></li>
+                    </ul>
+                    <div class="clear"></div>
+
+                </div>
+            </div>
+            <nav class="hidden-sm hidden-xs">
+                <ul id="menu">
+                        <li data-id="1"><a href="https://www.trabzonspor.org.tr/tr/kulup/tarihce" target="_self">KULÜP</a></li>
+                        <li data-id="2"><a href="https://www.trabzonspor.org.tr/tr/yonetim/yonetim-kurulu" target="_self">YÖNETİM</a></li>
+                        <li data-id="3"><a href="/tr/takimlar" target="_self">TAKIMLAR</a></li>
+                        <li data-id="3205"><a href="https://altyapi.trabzonspor.org.tr/tr" target="_blank">ALTYAPI</a></li>
+                        <li data-id="4"><a href="/tr/fikstur" target="_self">FİKSTÜR</a></li>
+                        <li data-id="56"><a href="/tr/markalarimiz" target="_self">MARKALARIMIZ</a></li>
+                        <li data-id="5"><a href="javascript:void(0);" target="_self">ONLINE İŞLEMLER</a></li>
+                        <li data-id="6"><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/altyapi" target="_self">TRABZONSPOR</a></li>
+                        <li data-id="7"><a href="javascript:void(0);" target="_self">ARŞİV</a></li>
+                        <li data-id="94"><a href="/tr/iletisim" target="_self">İLETİŞİM</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+<div class="subsite">
+        <div class="container ca-1 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <ul class="submenu">
+                            <li><a href="/tr/kulup/tarihce" target="_self">Tarih&#231;e</a></li>
+                            <li><a href="/tr/kulup/ts-dernekx" target="_self">TS Dernek</a></li>
+                            <li><a href="/tr/kulup/kulup-tuzugu" target="_self">Kul&#252;p T&#252;z&#252;ğ&#252;</a></li>
+                            <li><a href="/tr/kulup/kurumsal-kimlik" target="_self">Kurumsal Kimlik</a></li>
+                            <li><a href="/tr/kulup/kulup-uyeligi" target="_self">Kul&#252;p &#220;yeliği</a></li>
+                            <li><a href="/tr/kulup/kulup-genc-uyeligi" target="_self">Kul&#252;p Gen&#231; &#220;yeliği</a></li>
+                    </ul>
+                    <div class="standard-verticalline"></div>
+                    <ul class="submenu">
+                            <li><a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-futbol-as" target="_self">Trabzonspor Futbol A.Ş</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-ticari-urunler-as" target="_self">Trabzonspor Ticari &#220;r&#252;nler A.Ş</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-bordo-mavi-enerji-elektrik-uretim-as" target="_self">Trabzonspor Bordo Mavi Enerji Elektrik &#220;retim A.Ş</a></li>
+                            <li><a href="/tr/kulup/trabzonspor-telekomunikasyon-as" target="_self">Trabzonspor Telekom&#252;nikasyon A.Ş</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/kulup/bordo-mavi-futbol-yatirimlari-as" target="_self">Bordo Mavi Futbol Yatırımları A.Ş</a></li>
+                            <li><a href="/tr/kulup/tescilli-markalar" target="_self">Tescilli Markalar</a></li>
+                    </ul>
+                    <div class="standard-verticalline"></div>
+                    <ul class="submenu">
+                            <li><a href="/tr/kulup/futbol-okullari" target="_self">Futbol Okulları</a></li>
+                            <li><a href="/tr/kulup/resmi-derneklerimiz" target="_self">Resmi Derneklerimiz</a></li>
+                            <li><a href="/tr/kulup/stad" target="_self">Stadyum</a></li>
+                            <li><a href="/tr/kulup/formalarimiz" target="_self">Formalarımız</a></li>
+                            <li><a href="/tr/kulup/50-yil-logo" target="_self">50. Yıl Logo</a></li>
+                    </ul>
+
+            </div>
+        </div>
+        <div class="container ca-2 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <div class="just_image">
+                        <a href="/tr/yonetim/yonetim-kurulu" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/yonetim_kurulu_1773528158_250x-1_false.jpg" alt="Y&#246;netim Kurulu" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">Y&#214;NETİM KURULU</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="/tr/yonetim/kurucular" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/kurucular_2864326367_250x-1_false.jpg" alt="Kurucular" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">KURUCULAR</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="/tr/yonetim/kurullar" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/kurullar_5311731976_9976469411_250x-1_false.jpg" alt="Kurullar" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">KURULLAR</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="/tr/yonetim/organlar" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/ts_organlar_2143689157_250x-1_false.jpg" alt="Organlar" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">ORGANLAR</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="/tr/yonetim/teknik-kadro" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/teknik_kadro_7993968255_250x-1_false.jpg" alt="Teknik Kadro" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">TEKNİK KADRO</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="/tr/yonetim/idari-kadrolar" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/idari_kadrolar_5472327499_250x-1_false.jpg" alt="İdari Kadrolar" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">İDARİ KADROLAR</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+                    <div class="just_image">
+                        <a href="https://www.trabzonspor.org.tr/tr/yatirimci-iliskileri/ts-sportif-as-yatirimci-iliskileri" target="_self">
+                            <span class="wrap">
+                                <span class="image">
+                                        <img src="/download/resources/yatirimci_iliskileri_mini_banner_1655152313_6965825334_250x-1_false.jpg" alt="Yatırımcı İlişkileri" />
+                                </span>
+                            </span>
+                            <span class="transform-title">
+                                <span class="bg"></span>
+                                <span class="text">YATIRIMCI İLİŞKİLERİ</span>
+                                <span class="bg"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="just_image_verticalline"></div>
+
+            </div>
+        </div>
+        <div class="container ca-3 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <ul class="submenu">
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=futbol-a-takimi" target="_self">Futbol A Takımı</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=basketbol" target="_self">Basketbol</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=eskrim" target="_self">Eskrim</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=e-spor" target="_self">E - Spor</a></li>
+                            <li><a href="http://www.trabzonspor.org.tr/tr/takimlar?t=voleybol" target="_self">Voleybol</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=aticilik" target="_self">Atıcılık</a></li>
+                    </ul>
+                    <div class="standard-verticalline"></div>
+                    <ul class="submenu">
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=atletizm" target="_self">Atletizm</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=boks" target="_self">Boks</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=judo" target="_self">Judo</a></li>
+                            <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=masa-tenisi" target="_self">Masa Tenisi</a></li>
+                    </ul>
+
+            </div>
+        </div>
+        <div class="container ca-4">
+            <div class="menuhoverwrapper">
+                <div class="wsub1 nopadding fLeft">
+                    <div class="buttons clearfix">
+                        <div class="col-md-6">
+                            <a href="/tr/fikstur?b=football"><span class="border"><span class="img">
+                                <img src="/Content/Theme/Default/images/subsiteicon.png" alt="Futbol" /></span><span class="wrap"><span>Futbol</span></span></span></a>
+                            
+                        </div>
+                        <div class="col-md-6">
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="verticalline"></div>
+                    <div class="menuhoverfikstur wsub2 mTop20 fLeft">
+                        <div class="table-col titles">
+                            <div class="item">
+                                <div class="col-sm-2 micrologo"></div>
+                                <div class="col-sm-5 col-xs-6 text">Takım</div>
+                                <div class="col-sm-2 col-xs-3 text">Ma&#231;</div>
+                                <div class="col-sm-2 col-xs-3 text">Puan</div>
+                            </div>
+                        </div>
+
+                                <div class="table-col active">
+                                    <div class="item">
+                                        <div class="col-sm-2 number"><span>1</span></div>
+                                        <div class="col-sm-5 col-xs-6 text">  Trabzonspor</div>
+                                        <div class="col-sm-2 col-xs-3 text">19</div>
+                                        <div class="col-sm-2 col-xs-3 text">46</div>
+                                    </div>
+                                </div>
+                                <div class="table-col ">
+                                    <div class="item">
+                                        <div class="col-sm-2 number"><span>2</span></div>
+                                        <div class="col-sm-5 col-xs-6 text">  Konyaspor</div>
+                                        <div class="col-sm-2 col-xs-3 text">19</div>
+                                        <div class="col-sm-2 col-xs-3 text">39</div>
+                                    </div>
+                                </div>
+                                <div class="table-col ">
+                                    <div class="item">
+                                        <div class="col-sm-2 number"><span>3</span></div>
+                                        <div class="col-sm-5 col-xs-6 text">                                                                                    <k>Medipol Başakşehir</k>
+</div>
+                                        <div class="col-sm-2 col-xs-3 text">19</div>
+                                        <div class="col-sm-2 col-xs-3 text">33</div>
+                                    </div>
+                                </div>
+                                <div class="table-col ">
+                                    <div class="item">
+                                        <div class="col-sm-2 number"><span>4</span></div>
+                                        <div class="col-sm-5 col-xs-6 text">  Fenerbah&#231;e</div>
+                                        <div class="col-sm-2 col-xs-3 text">19</div>
+                                        <div class="col-sm-2 col-xs-3 text">32</div>
+                                    </div>
+                                </div>
+                    </div>
+                <div class="verticalline"></div>
+                    <div class="wsub3 nextmatches mTop20 fLeft">
+                        <div id="fiksturcontentslider2" class="owl-carousel fiksturcontentsliderstyles stylesforsmall" data-totalplayed="20">
+                                <div class="item" data-date="8.5.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">3 - 3</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/molde-fk.png" alt="Molde FK"/>
+                                        </span>
+                                        <span class="teamname"> Molde FK</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 30</span>                                        <span class="sline">
+                                            
+                                            
+                                                8.5.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="12.8.2021">
+                                    <div class="center">
+                                        <span class="stadium">Aker Stadion</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/molde-fk.png" alt="Molde FK"/>
+                                        </span>
+                                        <span class="teamname">  Molde FK</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                12.8.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="16.8.2021">
+                                    <div class="center">
+                                        <span class="stadium">Yeni Malatya Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/yeni-malatyaspor.png" alt="Yeni Malatyaspor"/>
+                                        </span>
+                                        <span class="teamname">  Yeni Malatyaspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 5</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 15</span>                                        <span class="sline">
+                                            
+                                            
+                                                16.8.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="23.8.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/sivasspor.png" alt="Sivasspor"/>
+                                        </span>
+                                        <span class="teamname"> Sivasspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 15</span>                                        <span class="sline">
+                                            
+                                            
+                                                23.8.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="29.8.2021">
+                                    <div class="center">
+                                        <span class="stadium">Cotanak Stadi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/giresunspor.png" alt="Giresunspor"/>
+                                        </span>
+                                        <span class="teamname">  Giresunspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">0 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>21</span> : 45</span>                                        <span class="sline">
+                                            
+                                            
+                                                29.8.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="12.9.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/galatasaray.png" alt="Galatasaray"/>
+                                        </span>
+                                        <span class="teamname"> Galatasaray</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                12.9.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="18.9.2021">
+                                    <div class="center">
+                                        <span class="stadium">Recep Tayyip Erdoğan Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/kasimpasa.png" alt="Kasimpasa"/>
+                                        </span>
+                                        <span class="teamname">  Kasimpasa</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">0 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                18.9.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="23.9.2021">
+                                    <div class="center">
+                                        <span class="stadium">Konya B&#252;y&#252;kşehir Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/konyaspor.png" alt="Konyaspor"/>
+                                        </span>
+                                        <span class="teamname">  Konyaspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>17</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                23.9.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="27.9.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/alanyaspor.png" alt="Alanyaspor"/>
+                                        </span>
+                                        <span class="teamname"> Alanyaspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                27.9.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="2.10.2021">
+                                    <div class="center">
+                                        <span class="stadium">Buyuksehir Belediyesi Kadir Has</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/kayserispor.png" alt="Kayserispor"/>
+                                        </span>
+                                        <span class="teamname">  Kayserispor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                2.10.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="17.10.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">3 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/fenerbahce.png" alt="Fenerbah&#231;e"/>
+                                        </span>
+                                        <span class="teamname"> Fenerbah&#231;e</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                17.10.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="23.10.2021">
+                                    <div class="center">
+                                        <span class="stadium">G&#246;ztepe G&#252;rsel Aksel Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/goztepe.png" alt="G&#246;ztepe"/>
+                                        </span>
+                                        <span class="teamname">  G&#246;ztepe</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">0 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                23.10.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="29.10.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/caykur-rizespor.png" alt="Caykur Rizespor"/>
+                                        </span>
+                                        <span class="teamname"> Caykur Rizespor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                29.10.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="6.11.2021">
+                                    <div class="center">
+                                        <span class="stadium">Vodafone Park</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/besiktas.png" alt="Besiktas"/>
+                                        </span>
+                                        <span class="teamname">  Besiktas</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                6.11.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="22.11.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">3 - 0</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/gaziantep-fk.png" alt="Gaziantep FK"/>
+                                        </span>
+                                        <span class="teamname"> Gaziantep FK</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                22.11.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="28.11.2021">
+                                    <div class="center">
+                                        <span class="stadium">Atat&#252;rk Olimpiyat</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/fatih-karagumruk.png" alt="Fatih Karag&#252;mr&#252;k"/>
+                                        </span>
+                                        <span class="teamname">  Fatih Karag&#252;mr&#252;k</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">0 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                28.11.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="4.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 0</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/adana-demirspor.png" alt="Adana Demirspor"/>
+                                        </span>
+                                        <span class="teamname"> Adana Demirspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                4.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="11.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Antalya Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/antalyaspor.png" alt="Antalyaspor"/>
+                                        </span>
+                                        <span class="teamname">  Antalyaspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 1</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                11.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="18.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">2 - 0</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/hatayspor.png" alt="Hatayspor"/>
+                                        </span>
+                                        <span class="teamname"> Hatayspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                18.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="21.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Alsancak Mustafa Denizli Stadi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/altay.png" alt="Altay"/>
+                                        </span>
+                                        <span class="teamname">  Altay</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">1 - 2</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                21.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="25.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">0 - 0</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/istanbul-basaksehir.png" alt="Istanbul Basaksehir"/>
+                                        </span>
+                                        <span class="teamname">                                                                     <span> Medipol Başakşehir</span>
+</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+                                        <span class="sline">
+                                            
+                                            
+                                                25.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="28.12.2021">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/boluspor.png" alt="Boluspor"/>
+                                        </span>
+                                        <span class="teamname"> Boluspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>18</span> : 30</span>                                        <span class="sline">
+                                            
+                                            
+                                                28.12.2021
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="7.1.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/yeni-malatyaspor.png" alt="Yeni Malatyaspor"/>
+                                        </span>
+                                        <span class="teamname"> Yeni Malatyaspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                7.1.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="15.1.2022">
+                                    <div class="center">
+                                        <span class="stadium">Yeni 4 Eyl&#252;l Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/sivasspor.png" alt="Sivasspor"/>
+                                        </span>
+                                        <span class="teamname">  Sivasspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>16</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                15.1.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="19.1.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/giresunspor.png" alt="Giresunspor"/>
+                                        </span>
+                                        <span class="teamname"> Giresunspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>20</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                19.1.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="23.1.2022">
+                                    <div class="center">
+                                        <span class="stadium">NEF Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/galatasaray.png" alt="Galatasaray"/>
+                                        </span>
+                                        <span class="teamname">  Galatasaray</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>19</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                23.1.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="6.2.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/kasimpasa.png" alt="Kasimpasa"/>
+                                        </span>
+                                        <span class="teamname"> Kasimpasa</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                6.2.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="13.2.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/konyaspor.png" alt="Konyaspor"/>
+                                        </span>
+                                        <span class="teamname"> Konyaspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                13.2.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="20.2.2022">
+                                    <div class="center">
+                                        <span class="stadium">Bah&#231;eşehir Okulları Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/alanyaspor.png" alt="Alanyaspor"/>
+                                        </span>
+                                        <span class="teamname">  Alanyaspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                20.2.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="27.2.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/kayserispor.png" alt="Kayserispor"/>
+                                        </span>
+                                        <span class="teamname"> Kayserispor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                27.2.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="6.3.2022">
+                                    <div class="center">
+                                        <span class="stadium">&#220;lker Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/fenerbahce.png" alt="Fenerbah&#231;e"/>
+                                        </span>
+                                        <span class="teamname">  Fenerbah&#231;e</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                6.3.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="13.3.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/goztepe.png" alt="G&#246;ztepe"/>
+                                        </span>
+                                        <span class="teamname"> G&#246;ztepe</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                13.3.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="20.3.2022">
+                                    <div class="center">
+                                        <span class="stadium">&#199;aykur Didi Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/caykur-rizespor.png" alt="Caykur Rizespor"/>
+                                        </span>
+                                        <span class="teamname">  Caykur Rizespor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>03</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                20.3.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="3.4.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/besiktas.png" alt="Besiktas"/>
+                                        </span>
+                                        <span class="teamname"> Besiktas</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                3.4.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="10.4.2022">
+                                    <div class="center">
+                                        <span class="stadium">Kalyon Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/gaziantep-fk.png" alt="Gaziantep FK"/>
+                                        </span>
+                                        <span class="teamname">  Gaziantep FK</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                10.4.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="17.4.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/fatih-karagumruk.png" alt="Fatih Karag&#252;mr&#252;k"/>
+                                        </span>
+                                        <span class="teamname"> Fatih Karag&#252;mr&#252;k</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                17.4.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="24.4.2022">
+                                    <div class="center">
+                                        <span class="stadium">Yeni Adana Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/adana-demirspor.png" alt="Adana Demirspor"/>
+                                        </span>
+                                        <span class="teamname">  Adana Demirspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                24.4.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="1.5.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/antalyaspor.png" alt="Antalyaspor"/>
+                                        </span>
+                                        <span class="teamname"> Antalyaspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                1.5.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="8.5.2022">
+                                    <div class="center">
+                                        <span class="stadium">Yeni Hatay Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/hatayspor.png" alt="Hatayspor"/>
+                                        </span>
+                                        <span class="teamname">  Hatayspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                8.5.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="15.5.2022">
+                                    <div class="center">
+                                        <span class="stadium">Şenol G&#252;neş Spor Kompleksi</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname">  Trabzonspor</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/altay.png" alt="Altay"/>
+                                        </span>
+                                        <span class="teamname"> Altay</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                15.5.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item" data-date="22.5.2022">
+                                    <div class="center">
+                                        <span class="stadium">3.İstanbul Başakşehir Fatih Terim Stadyumu</span>
+                                        <span class="shortline"></span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/istanbul-basaksehir.png" alt="Istanbul Basaksehir"/>
+                                        </span>
+                                        <span class="teamname">                                                                       <span> Medipol Başakşehir</span>
+</span>
+                                    </div>
+                                    <div class="fiksturslidercontentitem score">
+                                            <div class="vs">vs</div>
+                                    </div>
+                                    <div class="fiksturslidercontentitem">
+
+                                        <span class="teamimg">
+                                                <img src="/download/Teams/trabzonspor.png" alt="Trabzonspor"/>
+                                        </span>
+                                        <span class="teamname"> Trabzonspor</span>
+                                    </div>
+                                    <div class="dateitsubsite">
+
+<span class="fline"><span>02</span> : 00</span>                                        <span class="sline">
+                                            
+                                            
+                                                22.5.2022
+                                            
+                                        </span>
+                                    </div>
+                                </div>
+                        </div>
+
+                    </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="container ca-56 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                <div class="row clearfix image_and_text">
+                    <div class="col-md-9 col-xs-12">
+
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/yavru_firtina_markalar_logo_8614724124_1811151835_-1x70_false.jpg" alt="Yavru Fırtına Trib&#252;n&#252;" />
+                                </div>
+                                <div class="brand-title">Yavru Fırtına Trib&#252;n&#252;</div>
+                                    <a href="/tr/markalarimiz/yavru-firtina-tribunu" target="_self" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>      
+                            </div>
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/qnb_card_9458725999_-1x70_false.png" alt="CardFinans Trabzonspor " />
+                                </div>
+                                <div class="brand-title">CardFinans Trabzonspor </div>
+                                    <a href="https://www.cardfinans.com.tr/cardfinans-ile-tanisin/ortak-markali-kartlar/cardfinans-trabzonspor.aspx?card=trabzonspor" target="_blank" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>
+                            </div>
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/112_6222864283_-1x70_false.jpg" alt="TS Denizbank Bonus" />
+                                </div>
+                                <div class="brand-title">TS Denizbank Bonus</div>
+                                    <a href="https://www.denizbank.com/kartlar/deniz-bonus-card/trabzonspor-bonus-card/ " target="_blank" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>
+                            </div>
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/ts_garanti_bonus_2818142891_2762765486_-1x70_false.jpg" alt="TS Garanti Bonus" />
+                                </div>
+                                <div class="brand-title">TS Garanti Bonus</div>
+                                    <a href="https://www.bonus.com.tr/trabzonspor-bonus-hemen-basvur?SourceCode=5C060062" target="_blank" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>
+                            </div>
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/world_8912398237_-1x70_false.jpg" alt="TS Vakıfbank World" />
+                                </div>
+                                <div class="brand-title">TS Vakıfbank World</div>
+                                    <a href="https://www.vakifkart.com.tr/" target="_blank" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>
+                            </div>
+                            <div class="menubrand">
+                                <div class="brand-image">
+                                    
+                                    <img src="/download/resources/kg-tra-website-banners-109x69_1444215229_-1x70_false.jpg" alt="Tra Token" />
+                                </div>
+                                <div class="brand-title">Tra Token</div>
+                                    <a href="https://www.socios.com/tr/trabzonspor/" target="_blank" class="titlewrapperforcontent">
+                                        <span class="alltitles">
+                                            <span class="buttonnext">
+İncele                                            </span>
+                                        </span>
+                                    </a>
+                            </div>
+                    </div>
+                    <div class="col-md-3 col-xs-12">
+                        <ul class="submenu">
+                                <li><a href="https://www.trabzonspor.com.tr" target="_blank">TS Club</a></li>
+                                <li><a href="https://www.bordomavitur.com" target="_blank">Bordo Mavi Tur</a></li>
+                                <li><a href="https://www.turkcell.com.tr/tr/61cell" target="_blank">61Cell</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container ca-5 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <div class="row clearfix image_and_text">
+                        <div class="col-md-9 col-xs-12">
+                                <div class="transform-wrap">
+                                    <a href="https://uyeislemleri.trabzonspor.org.tr/gk-sorgulama" target="_blank">
+                                        <span class="img">
+                                                <img src="/download/resources/search_5645784734_-1x-1_false.jpg" alt="Genel Kurul Katılım Sorgulama" />
+                                        </span>
+                                        <span class="text">GENEL KURUL KATILIM SORGULAMA</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://www.trabzonspor.org.tr/tr/online-islemler/gonullu-havuzu" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/gonullu_4426993975_-1x-1_false.jpg" alt="G&#246;n&#252;ll&#252; Havuzu " />
+                                        </span>
+                                        <span class="text">G&#214;N&#220;LL&#220; HAVUZU </span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://uyeislemleri.trabzonspor.org.tr" target="_blank">
+                                        <span class="img">
+                                                <img src="/download/resources/uye_borc_odeme_7628316126_3683191343_-1x-1_false.jpg" alt="&#220;yelik İşlemleri" />
+                                        </span>
+                                        <span class="text">&#220;YELİK İŞLEMLERİ</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://www.trabzonspor.com.tr/" target="_blank">
+                                        <span class="img">
+                                                <img src="/download/resources/ts_club_7717286562_-1x-1_false.jpg" alt="TS Club" />
+                                        </span>
+                                        <span class="text">TS CLUB</span>
+                                    </a>
+                                </div>
+
+                        </div>
+                        <div class="col-md-3 col-xs-12">
+                            <ul class="submenu">
+                                    <li><a href="https://uyeislemleri.trabzonspor.org.tr/gk-sorgulama" target="_blank">Genel Kurul Katılım Sorgulama</a></li>
+                                    <li><a href="https://www.trabzonspor.org.tr/tr/online-islemler/gonullu-havuzu" target="_self">G&#246;n&#252;ll&#252; Havuzu </a></li>
+                                    <li><a href="https://uyeislemleri.trabzonspor.org.tr" target="_blank">&#220;yelik İşlemleri</a></li>
+                                    <li><a href="https://www.trabzonspor.com.tr/" target="_blank">TS Club</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+            </div>
+        </div>
+        <div class="container ca-6 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <div class="row clearfix image_and_text">
+                        <div class="col-md-9 col-xs-12">
+                                <div class="transform-wrap">
+                                    <a href="/tr/trabzonspor/trabzonspor-dergisi" target="_self">
+                                        <span class="img">
+                                        </span>
+                                        <span class="text">TRABZONSPOR DERGİSİ</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="/tr/trabzonspor/seremoni-cocuklari" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/trabzonspor_yavrufirtina_markalar_9991255329_-1x-1_false.png" alt="Seremoni &#199;ocukları" />
+                                        </span>
+                                        <span class="text">SEREMONİ &#199;OCUKLARI</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://www.trabzonspor.org.tr/tr/markalarimiz" target="_self">
+                                        <span class="img">
+                                        </span>
+                                        <span class="text">MARKALARIMIZ</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="/tr/trabzonspor/marslar" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/marslar_2654238663_-1x-1_false.jpg" alt="Marşlar" />
+                                        </span>
+                                        <span class="text">MARŞLAR</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/nostalji/nostalji-" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/nostalji_7221156713_-1x-1_false.jpg" alt="Nostalji" />
+                                        </span>
+                                        <span class="text">NOSTALJİ</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="/tr/trabzonspor/wallpaper" target="_self">
+                                        <span class="img">
+                                        </span>
+                                        <span class="text">WALLPAPER</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="/tr/trabzonspor/kardes-kulupler" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/kardes_takimlar_9786177363_-1x-1_false.jpg" alt="Kardeş Kul&#252;pler" />
+                                        </span>
+                                        <span class="text">KARDEŞ KUL&#220;PLER</span>
+                                    </a>
+                                </div>
+                                <div class="transform-wrap">
+                                    <a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/kulupten-haberler" target="_self">
+                                        <span class="img">
+                                                <img src="/download/resources/ts_tv_4723857678_-1x-1_false.jpg" alt="Trabzonspor TV" />
+                                        </span>
+                                        <span class="text">TRABZONSPOR TV</span>
+                                    </a>
+                                </div>
+
+                        </div>
+                        <div class="col-md-3 col-xs-12">
+                            <ul class="submenu">
+                                    <li><a href="/tr/trabzonspor/trabzonspor-dergisi" target="_self">Trabzonspor Dergisi</a></li>
+                                    <li><a href="/tr/trabzonspor/seremoni-cocuklari" target="_self">Seremoni &#199;ocukları</a></li>
+                                    <li><a href="https://www.trabzonspor.org.tr/tr/markalarimiz" target="_self">Markalarımız</a></li>
+                                    <li><a href="/tr/trabzonspor/marslar" target="_self">Marşlar</a></li>
+                                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/nostalji/nostalji-" target="_self">Nostalji</a></li>
+                                    <li><a href="/tr/trabzonspor/wallpaper" target="_self">Wallpaper</a></li>
+                                    <li><a href="/tr/trabzonspor/kardes-kulupler" target="_self">Kardeş Kul&#252;pler</a></li>
+                                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/kulupten-haberler" target="_self">Trabzonspor TV</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+            </div>
+        </div>
+        <div class="container ca-7 row clearfix default-menu">
+            <div class="menuhoverwrapper">
+                    <ul class="submenu">
+                            <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/gecmis-musabakalar/avrupa-kupalari/" target="_self">Ge&#231;miş M&#252;sabakalar</a></li>
+                            <li><a href="/tr/arsiv/basarilarimiz" target="_self">Başarılarımız</a></li>
+                            <li><a href="/tr/arsiv/eski-kadrolar" target="_self">Eski Kadrolar</a></li>
+                            <li><a href="/tr/arsiv/baskanlarimiz" target="_self">Başkanlarımız</a></li>
+                            <li><a href="/tr/arsiv/eski-teknik-direktorlerimiz" target="_self">Eski Teknik Direkt&#246;rlerimiz</a></li>
+                            <li><a href="/tr/arsiv/arsiv-gol-krallarimiz" target="_self">Gol Krallarımız</a></li>
+                    </ul>
+
+            </div>
+        </div>
+</div>
+
+            <!--end header-->
+            
+
+<div class="clearfix"></div>
+<div class="pagebodywrapper newsdetail">
+    <section class="container bgwhite">
+        <div class="newsbodymetarials">
+                    <div class="fLeft">
+                      <div class="title">Mutlu Yıllar</div>
+                      <div class="undertitle"><span class="time">31.12.2018 21:03</span></div>
+                    </div>
+                    <div class="fRight">
+                       <div class="bc"><span></span></div>
+                        <div class="newdetailsocialwrapper">
+                        <div class="contentdetailsocial">Bu Haberi Paylaş : </div>
+                        <div class="newsdetailsocialbuttons">
+
+
+                        <ul>
+                            <li class="detailpagessocialsprite fb"><a href="http://www.facebook.com/share.php?u=https://www.trabzonspor.org.tr/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018&layout=link" target="_blank"></a></li>
+                            <li class="detailpagessocialsprite tw"><a href="https://twitter.com/share?text=Mutlu Yıllar - Trabzonspor&url=https://www.trabzonspor.org.tr/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018" target="_blank"></a></li>
+                            <li class="detailpagessocialsprite ggl"><a href="https://plus.google.com/share?url=https://www.trabzonspor.org.tr/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018" target="_blank"></a></li>
+                            <li class="detailpagessocialsprite whtsp hidden-lg  visible-xs"><a href="whatsapp://send?text=Mutlu Yıllar - Trabzonspor https://www.trabzonspor.org.tr/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018" data-action="share/whatsapp/share" data-href="https://www.trabzonspor.org.tr/tr/haberler/guncel-haberler/mutlu-yillar-31-12-2018" ></a>
+                        </ul>
+                    </div>
+                        </div>
+                    </div>
+               </div>
+        <div class="clear"></div>
+        <div class="generalline"></div>
+        <div class="newscontent">
+            <p>Ne bir günlük ne de bir senelik...</p>
+
+<p>Bu sevda, bir ömürlük!</p>
+
+<p>Trabzonspor sevdamızla yücelttiğimiz nice yıllara!</p>
+
+<p><img alt="" src="/Download/Y%c4%b1lbas%cc%a7%c4%b1%20Site.jpg" style="height:700px; width:1000px" /></p>
+
+        </div>
+        <div class="clearfix"></div>
+        <div class="generalboldline"></div>
+        <div class="othernews">
+            <div class="titlewrapper">
+                <span class="alltitles"><span>BENZER HABERLER</span></span>
+            </div>
+            <div class="row clearfix">
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/ilkadim-belediyesi-yabancilar-pazari-spor-1-5-trabzonspor-kadin-futbol-takimi-29-12-2021" title="İlkadım Belediyesi Yabancılar Pazarı Spor 1-5 Trabzonspor Kadın Futbol Takımı ">
+                                <img src="/download/images/aw503949_14_5841696253.jpg?w=260&h=170&mode=crop" alt="İlkadım Belediyesi Yabancılar Pazarı Spor 1-5 Trabzonspor Kadın Futbol Takımı " />
+                        </a>
+                        <div class="desc">
+                            <div class="title">İlkadım Belediyesi Yabancılar Pazarı...</div>
+                            <div class="datewrap"><span class="day">29.12.2021 15:40</span></div>
+                            <div class="text">...</div>
+                            <a href="/tr/haberler/guncel-haberler/ilkadim-belediyesi-yabancilar-pazari-spor-1-5-trabzonspor-kadin-futbol-takimi-29-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/ertugrul-atakani-aniyoruz-29-12-2021" title="Ertuğrul Atakan&#39;ı anıyoruz">
+                                <img src="/download/images/anma_4455681177.jpg?w=260&h=170&mode=crop" alt="Ertuğrul Atakan&#39;ı anıyoruz" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Ertuğrul Atakan'ı anıyoruz...</div>
+                            <div class="datewrap"><span class="day">29.12.2021 09:06</span></div>
+                            <div class="text">29.12.1995 yılında aramızdan ayrılan eski yöneticilerimizden Ertuğrul Atakan'ı saygıyla anıyoruz. Ruhu...</div>
+                            <a href="/tr/haberler/guncel-haberler/ertugrul-atakani-aniyoruz-29-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/teknik-direktorumuz-abdullah-avcinin-aciklamalari-28-12-2021" title="Teknik Direkt&#246;r&#252;m&#252;z Abdullah Avcı&#39;nın a&#231;ıklamaları">
+                                <img src="/download/images/1snr7887_5162554193.jpg?w=260&h=170&mode=crop" alt="Teknik Direkt&#246;r&#252;m&#252;z Abdullah Avcı&#39;nın a&#231;ıklamaları" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Teknik Direktörümüz Abdullah Avcı'nın...</div>
+                            <div class="datewrap"><span class="day">28.12.2021 21:53</span></div>
+                            <div class="text">Teknik Direktörümüz Abdullah Avcı, Boluspor maçı sonrası açıklamalarda bulundu....</div>
+                            <a href="/tr/haberler/guncel-haberler/teknik-direktorumuz-abdullah-avcinin-aciklamalari-28-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/trabzonspor-1-0-boluspor-28-12-2021" title="Trabzonspor 1-0 Boluspor">
+                                <img src="/download/images/1snr8011_5823395866.jpg?w=260&h=170&mode=crop" alt="Trabzonspor 1-0 Boluspor" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Trabzonspor 1-0 Boluspor...</div>
+                            <div class="datewrap"><span class="day">28.12.2021 19:47</span></div>
+                            <div class="text">Takımımız Ziraat Türkiye Kupası 5. Tur maçında Boluspor’u 1-0 mağlup etti....</div>
+                            <a href="/tr/haberler/guncel-haberler/trabzonspor-1-0-boluspor-28-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/abdulkadir-parmakin-dogum-gununu-kutladik-28-12-2021" title="Abdulkadir Parmak’ın dogum g&#252;n&#252;n&#252; kutladık">
+                                <img src="/download/images/1snr7451_3748217344.jpg?w=260&h=170&mode=crop" alt="Abdulkadir Parmak’ın dogum g&#252;n&#252;n&#252; kutladık" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Abdulkadir Parmak’ın dogum gününü...</div>
+                            <div class="datewrap"><span class="day">28.12.2021 16:20</span></div>
+                            <div class="text">...</div>
+                            <a href="/tr/haberler/guncel-haberler/abdulkadir-parmakin-dogum-gununu-kutladik-28-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/boluspor-maci-hazirliklarimiz-tamamlandi-27-12-2021" title="Boluspor ma&#231;ı hazırlıklarımız tamamlandı">
+                                <img src="/download/images/1snr7398_9996543672.jpg?w=260&h=170&mode=crop" alt="Boluspor ma&#231;ı hazırlıklarımız tamamlandı" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Boluspor maçı hazırlıklarımız tamamlandı...</div>
+                            <div class="datewrap"><span class="day">27.12.2021 19:21</span></div>
+                            <div class="text">...</div>
+                            <a href="/tr/haberler/guncel-haberler/boluspor-maci-hazirliklarimiz-tamamlandi-27-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/boluspor-macini-tugay-kaan-numanoglu-yonetecek-27-12-2021" title="Boluspor ma&#231;ını Tugay Kaan Numanoğlu y&#246;netecek">
+                                <img src="/download/images/logo_8199743579.jpg?w=260&h=170&mode=crop" alt="Boluspor ma&#231;ını Tugay Kaan Numanoğlu y&#246;netecek" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Boluspor maçını Tugay Kaan Numanoğlu...</div>
+                            <div class="datewrap"><span class="day">27.12.2021 12:07</span></div>
+                            <div class="text">...</div>
+                            <a href="/tr/haberler/guncel-haberler/boluspor-macini-tugay-kaan-numanoglu-yonetecek-27-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 newswrapper">
+                        <a href="/tr/haberler/guncel-haberler/boluspor-maci-biletleri-satisa-sunuldu-27-12-2021" title="Boluspor ma&#231;ı biletleri satışa sunuldu">
+                                <img src="/download/images/logo_8639998616.jpg?w=260&h=170&mode=crop" alt="Boluspor ma&#231;ı biletleri satışa sunuldu" />
+                        </a>
+                        <div class="desc">
+                            <div class="title">Boluspor maçı biletleri satışa...</div>
+                            <div class="datewrap"><span class="day">27.12.2021 11:02</span></div>
+                            <div class="text">...</div>
+                            <a href="/tr/haberler/guncel-haberler/boluspor-maci-biletleri-satisa-sunuldu-27-12-2021" class="linkdetail">haber detay</a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+            <div class="pagebodywrapper">
+                <section class="container bgwhite footerfluid">
+                    <div class="row">
+                        <div class="generalline linemoreheight"></div>
+                    </div>
+                        <div class="row">
+                            <section id="homepage-sponsors">
+                                <div class="titlewrapperforcontent alignCenter">
+                                    <span class="alltitles"><span>SPONSORLAR</span></span>
+                                </div>
+                                <div class="footerlogos">
+                                    <div class="linewrapper">
+                                            <a href="https://www.vestel.com.tr" target="_blank">
+                                                
+                                                <img src="/download/resources/vestel_3335113141_-1x-1_false.png" class="grayscale" alt="Vestel" />
+                                            </a>
+                                            <a href="javascript:void(0)" target="_self">
+                                                
+                                                <img src="/download/resources/turksporu_1332971638_-1x-1_false.png" class="grayscale" alt="T&#252;rk Sporu" />
+                                            </a>
+                                            <a href="https://www.medicalpark.com.tr" target="_blank">
+                                                
+                                                <img src="/download/resources/medical-park_2844575119_-1x-1_false.png" class="grayscale" alt="Medical Park" />
+                                            </a>
+                                                <div class="clearfix"></div>
+                                            <a href="https://www.qnbfinansbank.com/" target="_blank">
+                                                
+                                                <img src="/download/resources/qnb_4595393865_-1x-1_false.png" class="grayscale" alt="QNB Finansbank" />
+                                            </a>
+                                            <a href="https://www.ulker.com.tr/" target="_blank">
+                                                
+                                                <img src="/download/resources/ulker_3546792465_-1x-1_false.png" class="grayscale" alt="&#220;lker" />
+                                            </a>
+                                            <a href="https://www.rentgo.com/" target="_blank">
+                                                
+                                                <img src="/download/resources/22222_2966281951_-1x-1_false.png" class="grayscale" alt="Rent Go" />
+                                            </a>
+                                            <a href="https://www.macron.com/int/en/" target="_blank">
+                                                
+                                                <img src="/download/resources/macron_4685883988_-1x-1_false.png" class="grayscale" alt="Macron" />
+                                            </a>
+                                            <a href="https://www.mekap.com.tr/" target="_self">
+                                                
+                                                <img src="/download/resources/mekap_5829377971_-1x-1_false.png" class="grayscale" alt="Mekap" />
+                                            </a>
+                                                <div class="clearfix"></div>
+                                            <a href="https://www.burgerking.com.tr/" target="_blank">
+                                                
+                                                <img src="/download/resources/12_7892876546_-1x-1_false.png" class="grayscale" alt="Burger King" />
+                                            </a>
+                                            <a href="https://www.damattween.com/" target="_blank">
+                                                
+                                                <img src="/download/resources/damat_7667156762_-1x-1_false.png" class="grayscale" alt="Tween" />
+                                            </a>
+                                            <a href="https://www.aktifbank.com.tr/tr?utm_source=logo&amp;utm_medium=kulup-sayfasi&amp;utm_campaign=ts" target="_blank">
+                                                
+                                                <img src="/download/resources/aktif-bank_4793711562_-1x-1_false.png" class="grayscale" alt="Aktif Bank" />
+                                            </a>
+                                            <a href="https://www.dogusotomotiv.com.tr/" target="_blank">
+                                                
+                                                <img src="/download/resources/dogus_2655242737_-1x-1_false.jpg" class="grayscale" alt="Doğuş Otomotiv" />
+                                            </a>
+                                            <a href="https://www.thy.com.tr/" target="_blank">
+                                                
+                                                <img src="/download/resources/turkish_9879747141_-1x-1_false.jpg" class="grayscale" alt="Turkish Airlines" />
+                                            </a>
+                                                <div class="clearfix"></div>
+                                            <a href="https://www.dedeman.com/otel-trabzon/park-dedeman-trabzon.aspx" target="_blank">
+                                                
+                                                <img src="/download/resources/dedeman_2397574437_-1x-1_false.jpg" class="grayscale" alt="dedeman trabzon" />
+                                            </a>
+                                            <a href="https://www.aliosmanulusoy.com/" target="_blank">
+                                                
+                                                <img src="/download/resources/aou_2632631463_-1x-1_false.png" class="grayscale" alt="Ali Osman Ulusoy" />
+                                            </a>
+                                            <a href="https://www.anadolusigorta.com.tr/" target="_blank">
+                                                
+                                                <img src="/download/resources/anadolu_sigorta_8269334772_-1x-1_false.png" class="grayscale" alt="Anadolu Sigorta" />
+                                            </a>
+                                            <a href="https://www.hardlinenutrition.com/" target="_blank">
+                                                
+                                                <img src="/download/resources/hardline_7959958412_-1x-1_false.png" class="grayscale" alt="Hardline Nutrition" />
+                                            </a>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                </section>
+                <section class="container bgwhite footerfluid">
+                    <div class="bottomlogo"></div>
+                    <div class="row newsletterwrapper">
+                        <form action="/tr/Main/Subscribe" method="post" onsubmit="return Reklam5.prototype.Subscribe(this);">
+                            <div class="title">Trabzonspor E-B&#252;lten</div>
+                            <div class="desc">Takımımızdan en son haber, duyuru ve bilgilerden haberdar olmak i&#231;in sen de kaydol!</div>
+                            <div class="col-xs-12">
+                                <input type="text" name="email" placeholder="E-Posta Adresi" />
+                            </div>
+
+                            <button type="submit" class="titlewrapperforcontent blue alignCenter clickable">
+                                <span class="alltitles"><span class="buttonnext">KAYDOL</span></span>
+                            </button>
+                        </form>
+                    </div>
+                </section>
+            </div>
+            
+<div class="ffooterwrap">
+    <a href="https://www.reklam5.com/tr" target="_blank" id="reklam5logo" class="hidden-xs hidden-sm" title="Dijital Ajans">Reklam5 İnteraktif Dijital Ajans</a>
+    <div class="container ffooter">
+        <section class="container footer">
+            <div class="list">
+                <div class="title">KULÜP</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/tarihce">Kulüp</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/tarihce">Tarihçe</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/ts-dernekx">TS Dernek</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/kulup-tuzugu">Kulüp Tüzüğü</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/kulup-uyeligi">Kulüp Üyeliği</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/ts-futbol-as">TS Futbol A.Ş</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/ts-tic-ur-as">TS Tic. Ür. A.Ş</a></li>
+                    <li><a href="https://trabzonspor.org.tr/tr/yatirimci-iliskileri/ts-sportif-as-yatirimci-iliskileri/">TS Sportif A.Ş.</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/bordo-mavi-enerji-elektrik-uretim-as">Bordo Mavi Enerji Elektrik Üretim Tic. A.Ş</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/trabzonspor-telekominikasyon-as">Trabzonspor Telekominikasyon A.Ş</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/tescilli-markalar">Tescilli Markalar</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/futbol-okullari">Futbol Okulları</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/resmi-derneklerimiz">Resmi Derneklerimiz</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/stad">Stad</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/kulup/formalarimiz">Formalarımız</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <div class="title">YÖNETİM</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/yonetim-kurulu">Yönetim</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/kurucular">Kurucular</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/kurullar">Kurullar</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/organlar">Organlar</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro">Teknik Kadro</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/idari-kadrolar">İdari Kadrolar</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <div class="title">ARŞİV</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/basarilarimiz">Başarılarımız </a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/eski-kadrolar">Eski Kadrolar</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/baskanlarimiz">Başkanlarımız</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/eski-teknik-direktorlerimiz">Eski Teknik Direktörlerimiz</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/detayli-arsiv-bilgileri">Detaylı Arşiv Bilgileri</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/arsiv/arsiv-gol-krallarimiz">Gol Krallarımız</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <div class="title">TEKNİK KADRO</div>
+                <div class="ftitleline"></div>
+                <ul>                    
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=futbol-a-takimi">Futbol A Takımı </a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=basketbol">Basketbol</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=eskrim">Eskrim</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=e-spor">E - Spor</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=voleybol">Voleybol</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=aticilik">Atıcılık</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=atletizm">Atletizm</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=boks">Boks</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=judo">Judo</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/yonetim/teknik-kadro?t=masa-tenisi">Masa Tenisi</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <div class="title">TAKIMLAR</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar">Futbol A Takımı </a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=basketbol">Basketbol</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=eskrim">Eskrim</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=e-spor">E - Spor</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=voleybol">Voleybol</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=aticilik">Atıcılık</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=atletizm">Atletizm</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=boks">Boks</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=judo">Judo</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/takimlar?t=masa-tenisi">Masa Tenisi</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <div class="title">ONLINE İŞLEMLER</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.com.tr" target="_blank">TS Club  </a></li>
+                    <li><a href="https://crm.trabzonspor.org.tr/Dergi/OnlineAbonelik/KForm.aspx" target="_blank">Dergi Aboneliği</a></li>
+                    <li><a href="https://crm.trabzonspor.org.tr/uyetakip/onlineislemler/uyeno/" target="_blank">Üyelik No Sorgulama</a></li>
+                    <!--<li><a href="https://crm.trabzonspor.org.tr/UyeTakip/OnlineIslemler/yenionline/default.asp" target="_blank">Üye Borç Sorgulama</a></li>-->
+
+                </ul>
+            </div>
+
+            <div class="list">
+                <div class="title">MARKALARIMIZ</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="http://trabzonspor.lukoil.com.tr/" target="_blank">Lukoil</a></li>
+                    <li><a href="https://www.denizbank.com/kartlar/deniz-bonus-card/trabzonspor-bonus-card/" target="_blank">TS Denizbank Bonus</a></li>
+                    <li><a href="https://www.bonus.com.tr/kredi-kartlari/trabzonspor-bonus" target="_blank">TS Garanti Bonus</a></li>
+                    <li><a href="https://www.vakifkart.com.tr/" target="_blank">TS Vakıfbank World</a></li>
+                    <li><a href="https://www.cardfinans.com.tr/cardfinans-ile-tanisin/ortak-markali-kartlar/cardfinans-trabzonspor.aspx?card=trabzonspor" target="_blank">Cardfinans Trabzonspor</a></li>
+                    <li><a href="https://www.turkcell.com.tr/tr/61cell" target="_blank">61Cell</a></li>
+
+
+                </ul>
+            </div>
+
+            <div class="list">
+                <div class="title">TRABZONSPOR </div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/markalarimiz">Markalarımız</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/marslar">Marşlar</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/nostalji/nostalji-">Nostalji</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/wallpaper">Wallpaper</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/kardes-kulupler">Kardeş Kulüpler</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/trabzonspor/trabzonspor-tv/alt-yapidan">Trabzon TV</a></li>
+
+                </ul>
+            </div>
+            
+            
+            <div class="list">
+                <div class="title">POLİTİKALAR</div>
+                <div class="ftitleline"></div>
+                <ul>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/cookies">Çerez Politikası</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/websitesikullanimkosullari">Web Sitesi Kullanım Koşulları</a></li>
+                    <li><a href="http://trabzonspor.org.tr/tr/cctvaydinlatma">CCTV Aydınlatma Metni</a></li>
+                    <li><a href="https://trabzonspor.org.tr/tr/kvkkaydinlatmametni ">KVKK Aydınlatma Metni</a></li>
+                    <li><a href="https://www.trabzonspor.org.tr/tr/websitesigizlilikpolitikasi ">Gizlilik Politikası</a></li>
+
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </section>
+    </div>
+</div>
+
+<div class="bottombackground">
+    <div class="bottombackgroundwrapper">
+        <p>Sosyal Medya</p>
+        <p></p>
+        <ul>
+            <li class="footersocialsprite fb"><a href="https://www.facebook.com/Trabzonspor" target="_blank"></a></li>
+            <li class="footersocialsprite tw"><a href="https://twitter.com/trabzonspor" target="_blank"></a></li>
+  <li class="footersocialsprite tw"><a href="https://twitter.com/Trabzonspor_EN_" target="_blank"></a></li>
+            <li class="footersocialsprite ins"><a href="https://instagram.com/trabzonspor" target="_blank"></a></li>
+            <li class="footersocialsprite ytb"><a href="https://www.youtube.com/user/Trabzonspor" target="_blank"></a></li>
+        </ul>
+        <p></p>
+        <p><span>©</span> 2021 Trabzonspor Kulübü <span>Resmi Web Sitesi</span></p>
+        <p></p>
+        <p>
+            <span>
+                www.trabzonspor.org.tr web sitesinde bulunan yazılı ve görsel içerik izinsiz <br />
+                başka bir yayın organında yayınlanamaz.
+            </span>
+        </p>
+        <div class="footerlogo"></div>
+        <a href="http://www.reklam5.com/tr" target="_blank" id="reklam5logo" class="visible-xs visible-sm" title="Dijital Ajans">Reklam5 İnteraktif Dijital Ajans</a>
+        <div class="bigtitle">TRABZONSPOR KULÜBÜ</div>
+    </div>
+</div>
+<div id="cookie-popup">
+  <div class="container">Size daha iyi bir kullanıcı deneyimi yaşatmayı hedefliyoruz. Bu nedenle, çerezlerden ve web sitemizle nasıl etkileşimde bulunduğunuza ilişkin verileri kaydedecek araçlardan faydalanıyoruz. Lütfen daha fazla bilgi almak için <a href="/tr/trabzonspor-kulubu-cerez-politikasi" onclick="CookieSettings()">Çerez Politikamızı </a> ziyaret ediniz. Bu siteye giriş yaparak çerez kullanımını kabul etmiş sayılıyorsunuz.
+  </div>
+  <div class="clearfix">
+  </div>
+  <a href="javascript:void(0);" onclick="CookieSettings()" class="button red close">Anladım
+  </a>
+</div>
+
+
+<p></p>
+
+
+
+            
+            <div class="modal fade" id="cookieModal" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        
+                        <div class="modal-body">
+                            <div class="description-area">
+                                <i class="popup-logo"></i>
+                                <div class="title">Gizlilik Tercihi Merkezi</div><div class="description"><p>Web sitemizi ziyaret ettiğiniz zaman çoğunlukla çerez formatında tarayıcınızdan bilgi alınmakta veya depolanmaktadır. Bu bilgiler sizin tercihleriniz veya cihazınızla ilgili olup, amacı web sitemizin sizin beklentileriniz doğrultusunda istediğiniz şekilde çalışmasını sağlamak ve web deneyiminizi size özel hale getirmektir.</p>
+<br/>
+<p>Gizlilik Hakkınıza saygı duyuyoruz. Bu nedenle web sitemizde kullanılan bazı çerezlere izin vermeyi veya vermemeyi seçebilirsiniz. Daha fazla bilgi için tarayıcınızın Site Ayarları bölümüne giriş yapabilir ve  tarayıcınızdaki varsayılan ayarları değiştirebilirsiniz. Ancak çerez türlerini engellemek sizin kullanım deneyiminizi ve size sunacağımız hizmetlerin işlevselliğini olumsuz etkileyebileceğini hatırlatmak isteriz.
+Kullandığımız çerezler hakkında detaylı bilgi <a href="https://www.trabzonspor.org.tr/tr/trabzonspor-kulubu-cerez-politikasi" target="_blank">Trabzonspor Çerez Politikası ve Aydınlatma Metni</a>’nde yer almaktadır.</p></div><div class="option-area" data-url="/tr/Main/CookieSettings " data-remove="/tr/Main/RemoveCookies"><div class="title">Cookie Tercihlerinizi Yönetin</div><div class="item"><div class="sub_title">Kesinlikle Gerekli Çerezler</div><div class="description_text">Bu çerezler, web sitelerimizin düzgün şekilde çalışabilmesi için gereklidir ve ziyaretçilerimizin, web sitelerimizdeki tüm özellikleri kullanarak rahatça gezebilmelerini sağlar. Aynı oturum içerisinde bir sayfadan başka bir sayfaya geçişte, belirli bir süre sonra web sitemiz yeniden ziyaret edildiğinde yapılmış tercihleri, üyelik ve benzeri bilgilerin hatırlanarak kalınan yerden devam edilebilmesi amacıyla çerezler kullanılır.</div><div class="cookie-details" data-area="container-1">Çerez Detayı</div><label class="always_active">Her Zaman Etkin</label></div><div class="item"><div class="sub_title">Performans Çerezleri</div><div class="description_text">Bu çerezler, web sitelerini ziyaretiniz süresince gerçekleştirdiğiniz işlemler hakkında (en çok tıklanan bağlantılar, en çok ziyaret edilen sayfalar, karşılaşılan hata mesajı sayısı gibi) ve kullanıcı cihazınızın IP adresini içeren kişisel veri toplamamızı ve bu bilgileri analiz ederek hataları ortadan kaldırmamızı, web sitemizi geliştirmemizi veya iyileştirmemizi sağlar.</div><div class="cookie-details" data-area="container-4">Çerez Detayı</div><label class="switch"><input type="checkbox" id="performance_cookies" checked /><span class="slider round"></span></label></div><a href="javascript:void(0)" class="btn btn-blue btn-cookie-send">Seçimleri Onayla</a></div>
+                            </div>
+                            <div class="cookie-details-area">
+                                <a class="back-button"><i class="iconpack back"></i>Geri D&#246;n</a>
+                                <div id="container-1" class="item">
+                                    <h2>&#199;erezlerinizi Y&#246;netin</h2>
+
+                                    <button class="modal-accordion">ASP.NET_Sessionid</button>
+                                    <div class="panel">
+                                        <p>Bu çerezler sitenin doğru bir şekilde çalışması için zorunlu, site üzerinde kullanılan altyapı tarafından otomatik olarak atanan çerezlerdir. Siteye giriş yapıldığı anda sistem tarafından otomatik olarak atanır.</p>
+
+                                        <div class="cookie-detail">
+                                            <span class="title">Çerez Adı</span>
+                                            <span class="text">ASP.NET_Sessionid</span>
+                                            <span class="title">Çerez Tipi</span>
+                                            <span class="text">Zorunlu Çerezler</span>
+                                            <span class="title">Çerez Süresi</span>
+                                            <span class="text">Her siteye kullanıcı girişi ile güncellenir. Siteden çıkış yapıldığı anda silinir.</span>
+                                        </div>
+                                    </div>
+
+                                    <button class="modal-accordion">Web.CurrentUICulture</button>
+                                    <div class="panel">
+                                        <p>Bu çerezler kullanıcı için kullanım kolaylığı sağlayan ve site genelinde işlevselliği arttırmayı amaçlayan çerezlerdir. Kullanıcının hangi dil üzerinde siteyi açtığını tutar ve sitenin tekrar açılması gibi durumlarda bu tercihi hatırlayarak kullanıcı için kullanım kolaylığı sağlar. 2</p>
+                                        <div class="cookie-detail">
+                                            <span class="title">Çerez Adı</span>
+                                            <span class="text">Web.CurrentUICulture</span>
+                                            <span class="title">Çerez Tipi</span>
+                                            <span class="text">Zorunlu Çerezler</span>
+                                            <span class="title">Çerez Süresi</span>
+                                            <span class="text">Her siteye kullanıcı girişi ile güncellenir. Browser kapatıldığında bu çerez de silinir.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="container-4" class="item">
+                                    <h2>&#199;erezlerinizi Y&#246;netin</h2>
+
+                                    <button class="modal-accordion">Google Analytics</button>
+                                    <div class="panel">
+                                        <p>Bu çerezler sitenin verilerini analiz etmek amacıyla kullanılır. Google Analytics tarafından atanan bu çerezler siteye ait tüm sayfaları ziyaret edenlerin sayısının tespiti, alınan veriler doğrultusunda kullanıcıların aradıklarını daha rahat bulabileceği bir sitesinin oluşturulması gibi amaçlar için kullanıcıya verilen hizmetin kalitesini arttırmak amacıyla kullanılır.</p>
+                                        <div class="cookie-detail">
+                                            <span class="title">Çerez Adı</span>
+                                            <span class="text">_ga, _gat, _gid</span>
+                                            <span class="title">Çerez Tipi</span>
+                                            <span class="text">Performans Çerezi</span>
+                                            <span class="title">Çerez Süresi</span>
+                                            <span class="text">_ga - 1 Yıl <br />_gid - 1 Gün <br /> _gat - 1 Dakika</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/Content/Theme/Default/js/jquery-1.12.4.min.js"></script>
+<script src="/Content/Theme/Default/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="/Content/Theme/Default/js/jquery-scrolltofixed.js"></script>
+<script src="/Content/Shared/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/Content/Shared/Scripts/prettyphoto/jquery.prettyPhoto.min.js"></script>
+<script src="/Content/Theme/Default/js/uniform.min.js"></script>
+<script src="/Content/Theme/Default/js/bootstrap.min.js"></script>
+<script src="/Content/Theme/Default/js/owl.carousel.min.js"></script>
+<script src="/Content/Theme/Default/js/countdown/jquery.plugin.js"></script>
+<script src="/Content/Theme/Default/js/countdown/jquery.countdown.min.js"></script>
+<script src="/Content/Theme/Default/js/countdown/jquery.countdown-tr.js"></script>
+
+    
+    <script id="reklam5" type="text/javascript" src="/Content/Theme/Default/js/custom.js?module=news"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var cookieSettings = $.cookie("cookie");
+            if (cookieSettings != null) {
+                $("#cookie-popup").hide();
+            }
+        });
+
+        function CookieSettings() {
+            $.cookie("cookie", "true", {
+                expires: 365
+            }
+            );
+            $("#cookie-popup").hide();
+        }
+    </script>
+</body>
+</html>
